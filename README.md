@@ -36,14 +36,13 @@ A faithful recreation of the classic arcade game *Donkey Kong*, built in Unity w
 
 ## Game Preview 
 Level 1:![WhatsApp Image 2024-12-06 at 17 34 44_c0b12012](https://github.com/user-attachments/assets/f04aae72-e176-4946-abdb-9c39e93c23c2)
+
+
 Level 2:![WhatsApp Image 2024-12-06 at 17 32 04_e4d4a7e0](https://github.com/user-attachments/assets/0225b7b4-1e07-44c6-bd66-2f80ec88d3ac)
-
-
 
 
 ## Known Issues  
 - Collision detection might occasionally cause minor glitches on ladders.  
-- Optimization for lower-end systems is in progress.  
 
 
 ## Future Improvements  
